@@ -1,0 +1,34 @@
+{
+  "title": "Free Family History and Genealogy Records",
+  "keywords": "",
+  "description": "Discover your family history. Explore the world’s largest collection of free family trees, genealogy records and resources.",
+ 
+  
+  "RecentImages-headline": "Your Recent People",
+  "Living": "Living",
+  "ANewKey" : "This is a great key",
+
+  "RecentStories": "Recent Stories",
+  "Stories": "Stories",
+
+  "Watchlist": "Watchlist",
+  "Listed": "Listed",
+  "Watch": "Watch",
+  "unWatch": "Unwatch",
+
+    "TestNoComment" : "Testing that no comments are in pseudo localized files",
+	"TestNoComment2" : "Test completion report count",
+	
+  "ImmigrationRecords": "Immigration Records",
+   "FranceUkraine": "2-0",
+
+  "Census1940CTA": "Search the 1940 Census",
+
+  "RootstechCTA": "RootsTech 2013",
+
+  "ItalianFamilyRecords": "Italian Family Records",
+
+  "NewKey": "Nouvelle clef",
+  "NewNewKey": "O keys",
+  "LindasNewKey" : "changing 1 file"
+}
