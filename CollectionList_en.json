@@ -1,6 +1,6 @@
 {
   "browse_images" : "Browse Images and stuff plus more",
-  "legacy" : "legacy",
+  "legacy" : "legacy output",
   "dateString": "dd mmm yyyy",
   "abbrMonths": ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
 }
