@@ -5,16 +5,13 @@
     "race": "Race",
     "marital_status": "Marital status",
     "relationship_to_head": "Relationship to Head of Household",
-
     "father": "Father Name",
     "mother": "Mother Name",
     "spouse": "Spouse Name",
     "any": "Any Household Member",
     "other": "Any Household Member",
-
     "father_birth_place": "Father&#8217s Birthplace",
     "mother_birth_place": "Mother&#8217s Birthplace",
-
     "event": "Event",
     "location": "Place",
     "eventRange": "Event Range",
@@ -23,7 +20,6 @@
     "event_place_level_3": "City, Town, or Enumeration District",
     "residence": "Residence",
     "prev_residence_place": "Previous Residence",
-
     "record_country": "Country",
     "record_subcountry": "State or Province",
     "record_type": "Record Type",
@@ -31,21 +27,17 @@
     "film_number": "Film Number",
     "igi_sheet_number": "Sheet or Serial Number",
     "afn": "Ancestral File Number",
-
-    "in1Source":  " in {0}",
+    "in1Source": " in {0}",
     "in2Sources": " in {0} and {1}",
     "ancestralFile": "Ancestral File",
     "pedigreeResourceFile": "Pedigree Resource File",
     "subcollection_id": "Submission Id"
-
   },
-
   "gender": {
     "male": "Male",
     "female": "Female",
     "unknown": "Unknown"
   },
-
   "recordType": {
     "birth_type": "Birth, Baptism, and Christenings",
     "marriage_type": "Marriage",
@@ -56,5 +48,4 @@
     "probate_type": "Probate",
     "other_type": "Other"
   }
-
 }
