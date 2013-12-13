@@ -1,8 +1,10 @@
 {
-  "browse_images": "!Browse Images and stuff plus more blah blah blah",
+  "browse_images": "!Browse Images and stuff plus more interesting things",
   "legacy": "!legacy output again again again and again",
   "dateString": "!dd mmm yyyy",
   "abbrMonths": [
+    "!Jan",
+    "!Jan",
     "!Jan",
     "!Jan",
     "!Jan",
@@ -12,8 +14,6 @@
     "!May",
     "!Jun",
     "!Jul",
-    "!Aug",
-    "!Sep",
-    "!Oct"
+    "!Aug"
   ]
 }
