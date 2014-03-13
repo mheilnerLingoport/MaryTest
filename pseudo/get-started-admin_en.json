@@ -1,0 +1,17 @@
+{
+  "get_started_title": "Get Started as a Group Administrator",
+  "get_started_main_header": "Get Started as a Group Administrator",
+  "get_started_main_subheader": "You provide valuable direction and guidance for your indexing group. Learn the basics to help your group succeed!",
+  "get_started_steps_1": "Review the %{0}interactive tutorial for group administrators.</a>",
+  "get_started_steps_2": "Invite group members to join.",
+  "get_started_steps_3": "Train and support group members.",
+  "get_started_steps_4": "<a href=\"#section-reporting\">Use reports</a> to track your group’s progress.",
+  "get_started_steps_5": "Recognize group members’ accomplishments.",
+  "get_started_basics_headline": "Group Administration Basics",
+  "get_started_basics_subheader": "Use these resources to help your group succeed:",
+  "get_started_reporting_headline": "Reporting and Group Management",
+  "get_started_reporting_subheader": "How do I access the administration portal?",
+  "get_started_reporting_steps_1": "Go to <a href=\"https://indexing.familysearch.org/\" target=\"_blank\">indexing.familysearch.org</a> and sign in with your FamilySearch or LDS Account.",
+  "get_started_reporting_steps_2": "Click the <strong>Administration</strong> link that will appear once you sign in.",
+  "get_started_reporting_steps_3": "Click the appropriate subtab for the task you’d like to complete."
+}

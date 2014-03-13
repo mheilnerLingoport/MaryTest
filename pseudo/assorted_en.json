@@ -1,0 +1,6 @@
+{
+  "projects_count_zero": "No Projects",
+  "projects_count_singular": "1 Project",
+  "projects_count_plural": "%{0} Projects",
+  "handwriting_helps_no_results_message": "There are currently no handwriting helps available in this language. Are you interested in helping make handwriting helps available for this language? Contact us at <a href=\"mailto:fsindexing@familysearch.org\">fsindexing@familysearch.org</a> and let us know you'd like to help!"
+}

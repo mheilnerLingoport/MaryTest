@@ -1,0 +1,12 @@
+{
+  "page_title": "Indexing for %{0}",
+  "page_introduction": "Welcome to the %{0} indexing page. View current projects for %{0}, indexing and arbitration progress, and completed projects now published on <a href=\"https://familysearch.org\">FamilySearch.org</a>.",
+  "join_indexing_community_header": "Join the Indexing Community",
+  "join_indexing_community_description": "There’s no time like the present to connect to the past.",
+  "join_indexing_community_link": "Get Started",
+  "current_projects_header": "Current Projects",
+  "current_projects_description": "Help index and arbitrate family history records from %{0}.",
+  "current_projects_show_more": "More",
+  "projects_list_view_project_details": "View Project Details",
+  "projects_list_start_indexing": "Start Indexing"
+}
