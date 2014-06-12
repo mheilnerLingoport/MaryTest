@@ -3,6 +3,6 @@
   "blank": "< BLANK >",
   "unreadable": "< UNREADABLE >",
   "review_agree": "Agree",
-  "review_disagree": "Disagree",
+  "review_disagree": "Disagree {test}",
   "review_idontknow": "Don't Know"
 }
