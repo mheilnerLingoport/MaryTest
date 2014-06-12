@@ -1,0 +1,8 @@
+{
+  "error": "Произошла ошибка.",
+  "blank": "< ПУСТОЙ>",
+  "unreadable": "< НЕЧИТАЕМЫЙ>",
+  "review_agree": "Согласен",
+  "review_disagree": "Не согласен",
+  "review_idontknow": "Не знаю"
+}
