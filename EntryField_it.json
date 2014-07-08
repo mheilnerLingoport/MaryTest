@@ -4,6 +4,6 @@
   "unreadable": "< ILLEGGIBILE >",
   "review_agree": "Accetto",
   "review_disagree": "Non accetto",
-  "review_idontknow": "Non so"
+  "review_idontknow": "Non so",
   "params":"Message params %s and %f"
 }

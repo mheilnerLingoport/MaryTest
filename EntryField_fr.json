@@ -4,6 +4,6 @@
   "unreadable": "< ILLISIBLE >",
   "review_agree": "D’accord",
   "review_disagree": "Pas d’accord",
-  "review_idontknow": "Je ne sais pas"
+  "review_idontknow": "Je ne sais pas",
   "params":"Message params %d and %s and %f"
 }

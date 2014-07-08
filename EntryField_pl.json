@@ -4,6 +4,6 @@
   "unreadable": "< НЕЧИТАЕМЫЙ>",
   "review_agree": "Согласен",
   "review_disagree": "Не согласен",
-  "review_idontknow": "Не знаю"
+  "review_idontknow": "Не знаю",
   "params":"Message params %d and %s"
 }
