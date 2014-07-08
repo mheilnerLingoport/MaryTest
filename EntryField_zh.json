@@ -5,4 +5,5 @@
   "review_agree": "Agree",
   "review_disagree": "Disagree {test}",
   "review_idontknow": "Don't Know"
+  "params":"Message params %d and %s"  
 }
