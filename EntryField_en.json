@@ -3,7 +3,7 @@
   "blank": "< BLANK >",
   "unreadable": "< UNREADABLE >",
   "review_agree": "Agree",
-  "review_disagree": "Disagree {test}",
+  "review_disagree": "Disagree {test} change",
   "review_idontknow": "Don't Know",
   "date_format": "dd/mm/yy",
   "params":"Message params %d and %s and %f"
