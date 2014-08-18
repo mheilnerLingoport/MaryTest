@@ -1,9 +1,10 @@
 {
-  "error": "Es ist ein Fehler aufgetreten.",
-  "blank": "< LEER >",
-  "unreadable": "< UNLESERLICH >",
-  "review_agree": "Ich stimme zu",
-  "review_disagree": "Ich stimme nicht zu",
-  "_comment1":"LRM_RESEND Ich nicht",
-  "review_idontknow": "Ich weiß es nicht"
+  "error": "There is an error.",
+  "blank": "< BLANK >",
+  "unreadable": "< UNREADABLE >",
+  "review_agree": "Agree",
+  "review_disagree": "Disagree {test} change",
+  "review_idontknow": "Don't Know",
+  "date_format": "dd/mm/yy",
+  "params": "Message params %d and %s and %f"
 }
