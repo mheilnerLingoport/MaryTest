@@ -2,7 +2,7 @@
   "error":"There is an error.",
   "blank": "< BLANK >",
   "unreadable": "< UNREADABLE >",
-  "review_agree": "Agree",
+  "review_agree": "Agree changes",
   "review_disagree": "Disagree {test} change",
   "review_idontknow": "Don't Know change",
   "date_format": "dd/mm/yy",
