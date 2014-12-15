@@ -4,7 +4,7 @@
   "unreadable": "< UNREADABLE >",
   "review_agree": "Agree",
   "review_disagree": "Disagree {test} change",
-  "review_idontknow": "Don't Know",
+  "review_idontknow": "Don't Know change",
   "date_format": "dd/mm/yy",
   "params":"Message params %d and %s and %f"
 }
